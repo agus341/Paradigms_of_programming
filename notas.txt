@@ -1,0 +1,4 @@
+Agustin,10
+Gonza,8
+Tomi,8
+Valen,4
