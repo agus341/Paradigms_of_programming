@@ -9,10 +9,13 @@ class PruebaPrivacidad:
     def getb(self):
         return self.__b
     
+
+    
 if __name__ == "__main__":
     o = PruebaPrivacidad(1,2,3)
+    m = o._PruebaPrivacidad__b
     p = Pet("a","b",1)
-    print(o._PruebaPrivacidad__b)
+    print(m)
     print(p.age)
     print(type(o))
     print(type(p))
