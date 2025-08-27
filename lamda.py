@@ -12,6 +12,8 @@ print(c(1,2))
 
 #funciones rápidas y simples en una sola línea.
 #No recomendable para funciones largas.
+#las puedo pasar como parámetro
+#las puedo retornar en el return
 cuadrado = lambda x: x**2
 
 concatenar = lambda t,h: t + h
