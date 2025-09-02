@@ -1,0 +1,32 @@
+[
+    {
+        "Nombre": "Messi",
+        "Edad": 37,
+        "Rol": "ING de soft",
+        "Lenguajes": [
+            "Python",
+            "JavaScript",
+            "C++"
+        ]
+    },
+    {
+        "Nombre": "Messi",
+        "Edad": 37,
+        "Rol": "ING de soft",
+        "Lenguajes": [
+            "Python",
+            "JavaScript",
+            "C++"
+        ]
+    },
+    {
+        "Nombre": "Messi",
+        "Edad": 37,
+        "Rol": "ING de soft",
+        "Lenguajes": [
+            "Python",
+            "JavaScript",
+            "C++"
+        ]
+    }
+]
